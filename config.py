@@ -7,18 +7,18 @@ load_dotenv()
 # client vars
 API_ID = int(getenv("API_ID", "7452578"))
 API_HASH = getenv("API_HASH", "061d67ee8eed9368c5cadabb4aa21efc")
-BOT_TOKEN = getenv("BOT_TOKEN", "5385370603:AAHjSbZFL1OLl_uOm3v8lS0iKSYhRJS_bKs")
-SESSION_NAME = getenv("SESSION_NAME", "AgAGFRW8AN9biZhAIB_X7rubbTCwNtc48oa-geXlaVsQbV9M1emAEV_iGPw_W-lNP1HGbOuQgF9NAUIxlp8-6rgN16-7Upuhst2wCxewyx0VP7Cxb5k_9EXap6_xeU2v4So9RZMt95XYxhGc4hWO_ikd9P46iHLMjXW8GjQAnGvY-bIrM6XqIXF1yeC3vixEa8knOHGkedZU3FYyLhEILy8TV6eH5jOGvsyw5o7xFElb2zZId_vlYO--B3xSWIMUR6zyH8wozehe9tIn0jZptYjY1rqWOMoYS9wtqvBThVazL60nrgL-KdikJC9beDJLLR0C-wzuAtARPCZ-JK6oG-gVAAAAAUM3evYA")
+BOT_TOKEN = getenv("BOT_TOKEN", "6225451353:AAG0tvSTrlligULZpqdaleYCB-JOnBW-IdY")
+SESSION_NAME = getenv("SESSION_NAME", "AgAiI3dT0jimOCn6RiMLYMdEMQKpqksonYkDy_TCaCP0kH-y91nZ9Ps48mFl75iglw9xakyB38XQxzU9yi4x8OgJJl2mZF2CilIBoSG18nCAq5G6bWAjDC1axBJ5FTG-4sUbWfK9ZvQOanqB9MMKDzTYYFnrVggQTNJQTBuz-zc9WLiP_z32YQUoQ-lS7MeqTx--MVH9kpz9YXyjbQJExCCxi_3JwWs8IYi4DT6bo2qKxywljydrUxme6REPhey2yLX76loKQRcvT3nEZJavuYJypdym9_WEbfaXuKxJYkCeeYAP--E0ygr-xHYkTPgah9lXYxpQsWGgKG4gScatlTETAAAAAVLAQooA")
 
 # mandatory vars
-OWNER_USERNAME = getenv("OWNER_USERNAME", "rr8r9")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "h_a_5_7_8_9")
 ALIVE_NAME = getenv("ALIVE_NAME", "song")
 BOT_USERNAME = getenv("BOT_USERNAME", "W7MBoT")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/STKR2/2004")
 UPSTREAM_BRANCH = getenv("UPSTREM_BRANCH", "main")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "60"))
 GROUP_SUPPORT = getenv("GROUP_SUPPORT", "rr8r9")
-UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "xl444")
+UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "e87p5m")
 
 # database, decorators, handlers mandatory vars
 MONGODB_URL = getenv("MONGODB_URL", "mongodb+srv://veez:mega@cluster0.heqnd.mongodb.net/veez?retryWrites=true&w=majority")
